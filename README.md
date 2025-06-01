@@ -1,1 +1,1 @@
-# euui
+# Project Helper CLI
